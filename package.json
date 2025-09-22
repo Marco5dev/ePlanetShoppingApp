@@ -1,9 +1,10 @@
 {
-  "name": "shoppingcart",
+  "name": "eplanet",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://wilsonftec.github.io/e-plantShopping",
+  "homepage": "https://eplanetshopping.vercel.app",
+  "author": "Mark Maher",
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
